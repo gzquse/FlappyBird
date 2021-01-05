@@ -1,5 +1,6 @@
 # FlappyBird
-
+- 强化学习， exploring  (reinforce learnning)
+- 蒙特卡洛模拟小鸟飞行
 ## 树形结构
 ![树形图](https://raw.githubusercontent.com/gzquse/FlappyBird/main/list.png)
 
